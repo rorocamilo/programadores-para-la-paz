@@ -1,0 +1,9 @@
+Saber usar la terminal es una de las habilidades fundamentales para cualquier desarrollador,
+ya que permite interactuar de manera directa, rápida y eficiente con el sistema operativo
+sin depender de una interfaz gráfica. A través de comandos sencillos, se pueden crear,
+organizar y modificar estructuras complejas de carpetas y archivos en pocos segundos.
+Además, la terminal es el medio principal para interactuar con herramientas esenciales
+como Git, sistemas de despliegue en la nube y servidores remotos en entornos reales.
+Esto no solo optimiza el flujo de trabajo técnico, sino que también fomenta la precisión
+y evita errores comunes al mover archivos manualmente. En conclusión, dominar la consola
+le otorga al programador el control total sobre su proyecto y su entorno de desarrollo.
