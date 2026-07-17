@@ -1,0 +1,9 @@
+Es de vital importancia que las comunidades e iniciativas ciudadanas tengan la capacidad de construir sus
+propias herramientas tecnológicas utilizando software de código abierto y ecosistemas como Node.js. Esto les
+otorga una completa autonomía y soberanía digital, permitiéndoles diseñar soluciones personalizadas que respondan
+de manera exacta a sus problemáticas sociales reales sin depender de costosas licencias comerciales o corporaciones.
+Al basarse en tecnologías abiertas, se reduce drásticamente la brecha digital y se fomenta un entorno colaborativo
+donde el conocimiento se comparte libremente y se democratiza. Además, estas plataformas son altamente accesibles,
+cuentan con un soporte global masivo y permiten que personas sin grandes recursos de hardware puedan programar.
+De esta forma, el desarrollo tecnológico local se convierte en un motor de participación, innovación social y
+empoderamiento ciudadano, alineándose directamente con la inclusión y la construcción de una cultura de paz.
