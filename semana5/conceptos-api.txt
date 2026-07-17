@@ -1,0 +1,5 @@
+Funcionamiento de la ruta POST /reporte:
+Esta ruta permite al servidor recibir datos complejos enviados desde el cliente (como un formulario o un JSON) dentro del cuerpo de la petición (req.body). En este caso, recibe un campo llamado "mensaje" y responde devolviendo un objeto JSON que confirma que el reporte fue procesado con éxito.
+
+Utilidad en una aplicación comunitaria:
+En un proyecto social o comunitario, esta ruta POST es indispensable para que los ciudadanos puedan enviar activamente datos al sistema, tales como: reportes de daños en infraestructura vial, denuncias anónimas, alertas tempranas de seguridad vecinal o registro de solicitudes de ayuda humanitaria para que el sistema los procese y coordine.

@@ -1,0 +1,10 @@
+Las APIs representan una herramienta tecnológica fundamental para las comunidades organizadas,
+ya que permiten conectar de forma ordenada diferentes aplicaciones, dispositivos y sistemas de
+información. Al establecer canales de comunicación estandarizados, una comunidad puede recibir y
+canalizar reportes vecinales, alertas de seguridad o solicitudes de asistencia de forma inmediata.
+Esto elimina la dispersión de datos que suele ocurrir en chats informales o llamadas telefónicas,
+centralizando la información crítica en una base de datos única y accesible en tiempo real. Además,
+el uso de APIs abiertas facilita que organizaciones locales, servicios de emergencia e instituciones
+públicas colaboren eficientemente, compartiendo recursos de forma coordinada y transparente. Así,
+las comunidades adquieren una mayor soberanía tecnológica, mejorando significativamente su capacidad de
+respuesta ante emergencias y fortaleciendo el tejido social a través de la participación ciudadana activa.

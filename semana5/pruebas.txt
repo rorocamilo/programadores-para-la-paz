@@ -1,0 +1,5 @@
+Descripción del funcionamiento de las rutas probadas en el navegador:
+
+1. http://localhost:3000 -> Muestra en pantalla el texto "Servidor activo", confirmando que la raíz del servidor de Express responde de manera exitosa a las peticiones GET.
+2. http://localhost:3000/saludo -> Retorna el texto estático "Hola comunidad", simulando una respuesta general para los usuarios o miembros de un grupo de forma directa.
+3. http://localhost:3000/mensaje/juan -> Muestra la respuesta dinámica "Hola juan". Al cambiar el nombre al final de la ruta por cualquier otro (ej: /mensaje/maria), el servidor responde de manera personalizada utilizando el parámetro ":nombre".
