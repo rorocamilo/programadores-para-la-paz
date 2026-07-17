@@ -1,0 +1,9 @@
+El uso responsable de la información en internet y la participación ciudadana activa están
+estrechamente vinculados, ya que una ciudadanía informada con datos verídicos puede tomar
+mejores decisiones colectivas y debatir con argumentos sólidos. Por su parte, el trabajo
+técnico y el uso de herramientas de control de versiones como Git aportan una estructura
+organizada, transparente y colaborativa a los proyectos sociales y tecnológicos. Al registrar
+de forma ordenada cada cambio, se garantiza la trazabilidad y la veracidad de los procesos,
+evitando el caos de información. Así, la rigurosidad técnica de Git se convierte en un pilar
+para construir iniciativas digitales confiables, donde la verdad y el orden facilitan un impacto
+positivo, democrático y pacífico en nuestra comunidad global de aprendizaje y cambio social.
