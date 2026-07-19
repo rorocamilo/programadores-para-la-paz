@@ -1,0 +1,13 @@
+1. Tareas del backlog que se ejecutarían en la primera iteración:
+- Historia de Usuario 1: Desarrollo del módulo de registro de reportes e incidencias para el ciudadano.
+- Historia de Usuario 2: Construcción de la interfaz gráfica o endpoint de consulta centralizada de datos para el coordinador de veeduría.
+
+2. Justificación de importancia:
+Estas dos tareas integran el Producto Mínimo Viable (MVP). Sin la capacidad de capturar datos sobre las problemáticas comunitarias y sin un espacio central para que el comité veedor los analice, la aplicación carecería de utilidad práctica. Las automatizaciones (como alertas por Telegram) o estadísticas no tendrían datos bases sobre los cuales operar; por ende, resolver el núcleo del flujo de datos es la prioridad técnica absoluta.
+
+3. Definición de Terminado (Definition of Done - DoD):
+Para que una tarea se considere formalmente "Terminada" en nuestro ciclo ágil, debe cumplir con los siguientes 4 criterios:
+- Funcionalidad: El código se ejecuta de manera local y en contenedores sin arrojar errores ni excepciones lógicas.
+- Validación: Supera pruebas básicas de sanidad de datos (por ejemplo, no permite registrar campos requeridos en blanco).
+- Revisión de seguridad: Se ha constatado que el backend no almacena ni expone de manera pública variables sensibles (.env).
+- Control de cambios: El código se encuentra debidamente versionado, documentado con comentarios limpios y con un commit empujado a GitHub.

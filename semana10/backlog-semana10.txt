@@ -1,0 +1,13 @@
+HISTORIAS DE USUARIO PRIORIZADAS (De Mayor a Menor Prioridad)
+
+[PRIORIDAD ALTA - CRÍTICA]
+1. Como ciudadano afectado, quiero registrar un reporte anónimo sobre fallas de infraestructura comunitaria en la plataforma para dejar evidencia del caso sin temor a represalias.
+
+[PRIORIDAD ALTA - CORE]
+2. Como coordinador de la veeduría ciudadana, quiero visualizar un tablero centralizado con las incidencias enviadas para evaluar su pertinencia y delegar las labores de verificación de campo.
+
+[PRIORIDAD MEDIA]
+3. Como miembro activo del equipo de veeduría, quiero recibir una notificación automatizada en Telegram cuando se asigne un estado de revisión a un caso para agilizar el seguimiento vecinal.
+
+[PRIORIDAD BAJA]
+4. Como administrador de la plataforma, quiero generar reportes estadísticos mensuales en formato digital para presentar balances de transparencia y rendición de cuentas ante la asamblea comunitaria.

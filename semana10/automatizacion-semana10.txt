@@ -1,0 +1,14 @@
+DISEÑO DE FLUJO DE AUTOMATIZACIÓN RESPONSABLE
+
+- Evento detonador (Trigger): 
+Un ciudadano envía un nuevo reporte a través de la interfaz web, lo cual ejecuta una solicitud HTTP POST hacia el servidor backend y este, a su vez, activa un nodo Webhook receptor configurado dentro de la plataforma n8n.
+
+- Acción y mensaje enviado a Telegram:
+El flujo de n8n procesa el payload e interactúa con el Bot de Telegram a través de un nodo HTTP para enviar el siguiente mensaje de texto enriquecido a un canal grupal cerrado del comité veedor:
+"📢 *Alerta del Sistema de Veeduría:* Se ha recibido una nueva incidencia en la base de datos comunitaria. 
+🔹 Estado actual: Pendiente de asignación.
+🔹 ID único de auditoría: [ID_ANONIMO_3492]
+👉 _Por favor, ingrese al sistema administrativo seguro para auditar los detalles correspondientes y gestionar la ruta institucional._"
+
+- Información estrictamente excluida por seguridad y privacidad:
+Bajo ninguna circunstancia se enviarán en la notificación de Telegram nombres completos de los reportantes, números de documentos de identidad (cédulas), números telefónicos, contraseñas, direcciones exactas de viviendas, o relatos explícitos que pongan en riesgo el anonimato y la seguridad física del ciudadano denunciante. Toda la información confidencial se mantiene bajo llaves en la base de datos interna y resguardada por controles de roles de acceso.
