@@ -1,0 +1,10 @@
+La estabilidad y seguridad de un servidor son la base fundamental de la confianza en cualquier plataforma digital comunitaria,
+puesto que garantizan que el canal de comunicación o el sistema de reportes esté disponible las veinticuatro horas del día.
+Cuando un servidor falla constantemente o sufre caídas de red inesperadas, se corta el flujo de participación activa ciudadana,
+provocando desinterés, frustración o la falsa percepción de que las herramientas locales de gobernanza digital no funcionan.
+De igual forma, asegurar el entorno del servidor impide que actores malintencionados comprometan la base de datos o tumben los
+servicios esenciales del barrio, resguardando la integridad de la información almacenada frente a posibles filtraciones.
+Un servidor bien optimizado y monitoreado de manera constante a través de sus logs permite reaccionar de forma ágil ante errores,
+previniendo pérdidas de datos o vulnerabilidades críticas que pongan en riesgo el anonimato de denuncias vecinales legítimas.
+Al final del día, dotar a los procesos comunitarios de una infraestructura tecnológica resiliente y segura traduce el desarrollo técnico
+en un compromiso social serio que empodera al ciudadano común y consolida espacios legítimos de participación democrática.

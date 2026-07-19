@@ -1,0 +1,9 @@
+- Al ejecutar el comando 'node server.js', la terminal inicializa el entorno de Node.js, levanta el Framework Express y enlaza el servidor al puerto lógico 3000, manteniendo el proceso activo y escuchando de forma ininterrumpida.
+
+- El mensaje exacto que aparece impreso en la terminal es: "Servidor ejecutándose en puerto 3000".
+
+- Al visitar la ruta http://localhost:3000/estado en el navegador o mediante un cliente HTTP, el servidor procesa la petición GET y responde exitosamente devolviendo un objeto con formato JSON que indica el estado operativo de la plataforma:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
