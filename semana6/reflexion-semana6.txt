@@ -1,0 +1,9 @@
+Recibir información de forma estructurada a través de plataformas digitales es fundamental para la gestión comunitaria,
+ya que permite procesar grandes volúmenes de datos de manera automatizada, rápida y sin errores de interpretación.
+Cuando los ciudadanos envían sus reportes usando formatos fijos como JSON, el sistema puede clasificar las incidencias
+inmediatamente según su gravedad o tipo, facilitando que los equipos técnicos o líderes vecinales prioricen la atención.
+Esto evita el caos y la pérdida de datos comunes en los canales de comunicación tradicionales o informales.
+Además, la estructuración de la información aporta transparencia y trazabilidad a los procesos de veeduría ciudadana,
+facilitando la creación de estadísticas claras sobre las necesidades reales del entorno o barrio afectado.
+En última instancia, contar con datos organizados empodera a las comunidades para exigir soluciones basadas en evidencia,
+optimizando los recursos disponibles y consolidando una cultura de paz sustentada en la eficiencia tecnológica y la colaboración.
