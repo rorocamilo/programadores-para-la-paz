@@ -1,0 +1,9 @@
+El registro y consulta de reportes en plataformas tecnológicas locales dota a las comunidades de una valiosa
+herramienta de organización que transforma quejas informales en datos útiles de gestión colectiva. Al tener
+un canal centralizado, se democratiza el acceso a la información y se eliminan las barreras de comunicación tradicionales,
+garantizando que cada vecino conozca el estado de las problemáticas de su entorno en tiempo real. Esto fomenta
+la transparencia en el manejo de los recursos y en la atención a las incidencias de infraestructura o convivencia.
+Además, la consulta abierta de estos datos promueve una cultura de veeduría responsable basada en evidencias claras
+y no en falsos rumores propagados en redes sociales. De esta manera, el uso estratégico de soluciones basadas en
+código abierto e iniciativas autogestionadas empodera al ciudadano común, estimula la participación democrática activa
+y provee soluciones prácticas que contribuyen directamente a la resolución pacífica de conflictos vecinales.
