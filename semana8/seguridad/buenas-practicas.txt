@@ -1,0 +1,3 @@
+1. Proteger contraseñas mediante el uso de gestores seguros y evitar su reutilización.
+2. No compartir credenciales de acceso ni API keys en canales públicos de comunicación o repositorios.
+3. Mantener el software del sistema operativo y las dependencias del servidor actualizadas a su última versión estable.

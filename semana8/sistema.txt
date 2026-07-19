@@ -1,0 +1,6 @@
+- uname -a: Este comando muestra información detallada sobre el sistema operativo y el núcleo (kernel) de Linux, incluyendo el nombre del host (nodo), la versión del kernel instalada, la arquitectura del procesador (por ejemplo, x86_64) y la fecha de compilación del sistema.
+
+- whoami: Este comando devuelve el nombre del usuario actual que tiene la sesión activa en la terminal y que está ejecutando los procesos en ese preciso instante.
+
+Importancia en la administración de servidores:
+Es indispensable conocer esta información porque antes de realizar configuraciones de backend, instalar dependencias de Node.js o aplicar parches de seguridad, el administrador debe verificar si cuenta con privilegios de superusuario (root) o un usuario estándar. Asimismo, conocer la arquitectura y versión exacta del núcleo de Linux evita fallos críticos de incompatibilidad al compilar binarios o desplegar aplicaciones en producción.

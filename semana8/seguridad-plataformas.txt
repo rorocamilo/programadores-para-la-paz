@@ -1,0 +1,5 @@
+1. No exponer datos personales: Anonimizar o cifrar registros sensibles (como documentos de identidad o números de contacto de los habitantes) para evitar que se filtren públicamente.
+2. Proteger credenciales de desarrollo: Utilizar archivos de configuración ocultos como `.env` para almacenar contraseñas de bases de datos o llaves de Webhooks, impidiendo que se suban a repositorios de GitHub.
+3. Usar conexiones seguras: Implementar certificados SSL/TLS (protocolo HTTPS) para garantizar que toda la información que viaja entre el frontend y el backend vaya completamente cifrada.
+4. Registrar accesos y auditoría de logs: Mantener un monitoreo constante sobre quién entra al servidor y qué endpoints se ejecutan, detectando a tiempo comportamientos inusuales o intentos de denegación de servicio.
+5. Limitar acceso a información sensible basado en roles (RBAC): Restringir los privilegios del sistema para que los usuarios finales solo consulten información pública, dejando las mutaciones y gestiones críticas de la base de datos reservadas de manera exclusiva para cuentas administrativas autenticadas.

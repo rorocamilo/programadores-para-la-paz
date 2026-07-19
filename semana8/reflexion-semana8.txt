@@ -1,0 +1,9 @@
+La seguridad digital es un pilar fundamental para salvaguardar la integridad de las plataformas tecnológicas comunitarias,
+ya que el éxito de estos procesos participativos depende enteramente de la confianza mutua entre los ciudadanos.
+Cuando una comunidad decide centralizar sus reportes, propuestas o ejercicios de votación pedagógica en un sistema web,
+deposita datos que, de ser filtrados o alterados, podrían vulnerar la privacidad de líderes sociales o vecinos del sector.
+Implementar prácticas robustas de seguridad evita ataques malintencionados que busquen deslegitimar los resultados,
+manipular la información o suplantar la identidad de los usuarios para generar desinformación o conflictos locales.
+Además, la protección técnica de servidores mediante sistemas estables y de código abierto como Linux garantiza la
+continuidad del servicio y promueve una gobernanza digital justa, transparente y accesible para todos los integrantes.
+Cuidar los datos no es solo una obligación técnica, sino un compromiso ético para mantener espacios democráticos seguros.
