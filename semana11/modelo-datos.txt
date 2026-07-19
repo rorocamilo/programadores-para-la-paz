@@ -1,0 +1,25 @@
+DISEÑO DE MODELO DE DATOS - PLATAFORMA COMUNITARIA
+
+Entidad 1: Causa
+Campos principales:
+- id (Tipo: UUID / Clave Primaria Única)
+- titulo (Tipo: Texto corto / Requerido)
+- descripcion (Tipo: Texto largo / Requerido)
+- categoria (Tipo: Texto / Ejemplo: Infraestructura, Salud, Medio Ambiente)
+- fecha_creacion (Tipo: Timestamp / Fecha automática del servidor)
+- creador_id (Tipo: UUID / Relación con el usuario que la propone)
+
+Propósito:
+Almacenar de forma estructurada e histórica todas las iniciativas, propuestas y causas de interés público planteadas por la comunidad para su posterior deliberación colectiva en la plataforma.
+
+--------------------------------------------------
+
+Entidad 2: Apoyo
+Campos principales:
+- id (Tipo: UUID / Clave Primaria Única)
+- causa_id (Tipo: UUID / Clave Foránea que conecta con la entidad Causa)
+- votante_anonimo_id (Tipo: Hash Único / Identificador ficticio del usuario para evitar duplicados)
+- fecha_apoyo (Tipo: Timestamp / Registro exacto de la acción)
+
+Propósito:
+Registrar de forma segura, trazable y transparente cada respaldo digital que recibe una causa específica. Esto permite totalizar las métricas de participación ciudadana impidiendo que un usuario apoye la misma iniciativa múltiples veces.

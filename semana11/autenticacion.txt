@@ -1,0 +1,6 @@
+El login es el mecanismo de seguridad que autentica la identidad de un usuario antes de concederle accesos y privilegios específicos en la plataforma.
+Algunas rutas del sistema deben estar estrictamente protegidas porque ejecutan operaciones críticas de modificación o eliminación de datos de control social.
+Si los endpoints de alteración de la base de datos fueran públicos, cualquier atacante podría sabotear los procesos participativos o manipular los resultados.
+Garantizar rutas privadas resguarda la consistencia del backend y asegura la trazabilidad legítima de las acciones administrativas del comité veedor.
+Por consiguiente, información confidencial como contraseñas en texto plano, tokens JWT de sesión o API keys jamás deben exponerse de forma abierta.
+Ocultar estos elementos sensibles previene vulnerabilidades críticas, la suplantación de identidad y filtraciones que pongan en riesgo a los líderes comunitarios.

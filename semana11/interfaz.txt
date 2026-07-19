@@ -1,0 +1,13 @@
+DISEÑO ARQUITECTÓNICO DE LA INTERFAZ DE USUARIO (UI)
+
+1. Vista de causas disponibles (Panel Principal):
+Un tablero digital público organizado en tarjetas (cards) legibles y accesibles. Cada tarjeta expone de forma clara el título de la causa, una descripción sintética, la categoría y la fecha de publicación, utilizando principios de lenguaje claro para que cualquier habitante pueda comprender la iniciativa sin barreras técnicas.
+
+2. Formulario para crear una causa:
+Un módulo interactivo visible únicamente para usuarios autenticados. Contiene campos de validación simples para rellenar el título y la descripción de la problemática barrial, junto con un botón de envío ("Publicar Causa"). El diseño del backend asegura que al presionar el botón no se capturen ni se soliciten datos personales innecesarios.
+
+3. Botón para apoyar una causa y Contador de apoyos:
+Al pie de cada tarjeta de causa, se ubica un botón de acción rápida etiquetado como "Apoyar causa". Justo al lado del botón, se muestra un contador numérico dinámico que se actualiza en tiempo real reflejando el número total de apoyos vigentes que ha sumado la propuesta.
+
+4. Criterios de Privacidad y Usabilidad:
+La interfaz web es intuitiva, responsiva (adaptable a celulares) y se rige bajo la premisa de protección de datos. No muestra listados de nombres de votantes, números de cédula ni ubicaciones residenciales exactas, protegiendo el anonimato de la participación ciudadana.
