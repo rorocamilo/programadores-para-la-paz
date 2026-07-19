@@ -1,0 +1,16 @@
+FLUJO OPERACIONAL DEL SISTEMA "PETICIÓN EN 3 CLICS"
+
+Paso 1: Postulación de la Iniciativa
+Un líder comunitario o ciudadano accede a la plataforma web e ingresa una nueva causa colectiva (por ejemplo, la reparación del alumbrado público de la comunidad), detallando el título y la descripción clara de la problemática.
+
+Paso 2: Persistencia y Publicación Dinámica
+El servidor backend procesa la solicitud, almacena de forma persistente la causa en la base de datos JSON/SQL y renderiza dinámicamente la propuesta en el tablero público para que sea visible por el resto de habitantes del sector.
+
+Paso 3: Registro de Apoyos Ciudadanos
+Los vecinos del barrio ingresan a la interfaz digital, revisan las causas disponibles y presionan un botón interactivo para registrar su respaldo a la iniciativa, validando su identidad mediante un esquema simplificado y anónimo.
+
+Paso 4: Consolidación y Conteo de Métricas
+El backend procesa cada apoyo entrante, verifica mediante lógica algorítmica que no existan registros duplicados provenientes del mismo usuario y actualiza en tiempo real el contador acumulativo de la propuesta.
+
+Paso 5: Generación Automatizada del PDF Formal
+Al completarse el umbral de apoyos requeridos, la aplicación recopila los datos estructurados de la base de datos y genera automáticamente un documento formal en formato PDF, listo para ser radicado legalmente ante las autoridades locales.

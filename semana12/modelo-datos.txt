@@ -1,0 +1,23 @@
+DISEÑO DEL MODELO DE DATOS CENTRALIZADO
+
+Entidad 1: Causa
+Campos principales:
+- id: Identificador único universal (UUID) que actúa como clave primaria.
+- titulo: Cadena de texto que resume la necesidad colectiva de forma clara.
+- descripcion: Bloque de texto detallado que fundamenta la solicitud de veeduría.
+- fecha: Timestamp que registra el día y la hora exacta en que se creó la postulación.
+
+Propósito:
+Esta entidad sirve para registrar de manera organizada, cronológica y persistente las diferentes propuestas o problemáticas expuestas por la comunidad que requieren la acumulación de firmas o apoyos colectivos.
+
+---------------------------------------------------------------------------------
+
+Entidad 2: Apoyo
+Campos principales:
+- id: Identificador único autoincrementable o hash que valida la transacción.
+- causa_id: Clave foránea (Foreign Key) que vincula lógicamente el apoyo con una Causa específica.
+- nombre: Identificador ficticio o seudónimo del usuario (resguardando su identidad real).
+- fecha: Registro temporal de cuándo se ejerció la acción de respaldo digital.
+
+Propósito:
+Tiene como objetivo registrar de forma trazable e inalterable cada una de las firmas digitales de soporte que recibe una causa. Permite asociar los respaldos sin almacenar datos sensibles e impide que una misma persona vote dos veces.

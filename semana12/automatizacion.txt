@@ -1,0 +1,12 @@
+DISEÑO DE AUTOMATIZACIÓN DE NOTIFICACIONES RESPONSABLES
+
+- Evento activador (Trigger):
+La inserción exitosa de una nueva causa ciudadana dentro de la base de datos del sistema o la generación exitosa del documento de petición final en PDF desde el backend de Express.
+
+- Mensaje estructurado enviado a Telegram:
+"📢 *Notificación del Sistema Petición en 3 Clics:* Una nueva iniciativa de control social ha sido publicada exitosamente en el panel comunitario. 
+🔹 Estado actual: Recibiendo respaldos activos.
+👉 _Se invita a todos los integrantes del comité a ingresar a la plataforma segura para verificar el pliego de solicitudes y registrar de forma transparente su apoyo digital._"
+
+- Información estrictamente excluida por seguridad y privacidad:
+Bajo ninguna circunstancia se enviarán en los payloads de la automatización números de cédulas, números telefónicos de contacto, contraseñas, direcciones de residencia, correos electrónicos personales, o comentarios subjetivos que comprometan el anonimato de los ciudadanos o que puedan poner en riesgo la integridad física de los líderes barriales.
